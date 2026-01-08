@@ -71,3 +71,29 @@ body {
 .section1-image img {
     width: 300px;
 }
+
+.features{
+    text-align: center;
+    padding: 60px 0;
+}
+
+.features h2{
+    font-size: 32px;
+}
+
+.judul{
+    margin-bottom: 40px;
+    color: #777;
+}
+
+.feature-box{
+    width: 23%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 1%;
+    padding: 20px;
+}
+
+.feature h4{
+    margin-bottom: 10px;
+}
