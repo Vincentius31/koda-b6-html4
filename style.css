@@ -41,3 +41,33 @@ body {
     color: #333;
     font-size: 14px;
 }
+
+.section1 {
+    background: #fdebe4;
+    padding: 60px 0;
+}
+
+.section1-text {
+    width: 50%;
+    float: left;
+}
+
+.section1-text h1 {
+    font-size: 42px;
+    margin-bottom: 20px;
+}
+
+.section1-text p {
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+
+.section1-image {
+    width: 50%;
+    float: right;
+    text-align: right;
+}
+
+.section1-image img {
+    width: 300px;
+}
